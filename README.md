@@ -14,7 +14,7 @@ Please refer the display datasheet for the touch tail before connection to a pow
 // A0        | PORTC | 03               | Reset                           (RST)   |
 // A1        | PORTC | 04               | Interrupt                       (INT)   |
 // A4        | PORTC | 05               | I2C data                        (SDA)   |
-// A5        | PORTB | 06               | I2C clock                       (SCL)   |
+// A5        | PORTC | 06               | I2C clock                       (SCL)   |
 //-----------+-------+------------------+-----------------------------------------+
 ```
 
